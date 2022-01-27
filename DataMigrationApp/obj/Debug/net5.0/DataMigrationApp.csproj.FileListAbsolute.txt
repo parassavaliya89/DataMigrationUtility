@@ -1,0 +1,128 @@
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\DataMigrationApp.exe
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\DataMigrationApp.deps.json
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\DataMigrationApp.runtimeconfig.json
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\DataMigrationApp.runtimeconfig.dev.json
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\DataMigrationApp.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\ref\DataMigrationApp.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\DataMigrationApp.pdb
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\Humanizer.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Code\DataMigration\DataMigrationApp\obj\Debug\net5.0\DataMigrationApp.csproj.AssemblyReference.cache
+D:\Code\DataMigration\DataMigrationApp\obj\Debug\net5.0\DataMigrationApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\DataMigration\DataMigrationApp\obj\Debug\net5.0\DataMigrationApp.AssemblyInfoInputs.cache
+D:\Code\DataMigration\DataMigrationApp\obj\Debug\net5.0\DataMigrationApp.AssemblyInfo.cs
+D:\Code\DataMigration\DataMigrationApp\obj\Debug\net5.0\DataMigrationApp.csproj.CoreCompileInputs.cache
+D:\Code\DataMigration\DataMigrationApp\obj\Debug\net5.0\DataMigrationApp.csproj.CopyComplete
+D:\Code\DataMigration\DataMigrationApp\obj\Debug\net5.0\DataMigrationApp.dll
+D:\Code\DataMigration\DataMigrationApp\obj\Debug\net5.0\ref\DataMigrationApp.dll
+D:\Code\DataMigration\DataMigrationApp\obj\Debug\net5.0\DataMigrationApp.pdb
+D:\Code\DataMigration\DataMigrationApp\obj\Debug\net5.0\DataMigrationApp.genruntimeconfig.cache
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\DataMigrationApp.exe
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\DataMigrationApp.deps.json
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\DataMigrationApp.runtimeconfig.json
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\DataMigrationApp.runtimeconfig.dev.json
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\DataMigrationApp.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\ref\DataMigrationApp.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\DataMigrationApp.pdb
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\obj\Debug\net5.0\DataMigrationApp.csproj.AssemblyReference.cache
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\obj\Debug\net5.0\DataMigrationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\obj\Debug\net5.0\DataMigrationApp.AssemblyInfoInputs.cache
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\obj\Debug\net5.0\DataMigrationApp.AssemblyInfo.cs
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\obj\Debug\net5.0\DataMigrationApp.csproj.CoreCompileInputs.cache
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\obj\Debug\net5.0\DataMigrationApp.csproj.CopyComplete
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\obj\Debug\net5.0\DataMigrationApp.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\obj\Debug\net5.0\ref\DataMigrationApp.dll
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\obj\Debug\net5.0\DataMigrationApp.pdb
+C:\Users\Paras Savaliya\Desktop\DataMigration\DataMigrationApp\obj\Debug\net5.0\DataMigrationApp.genruntimeconfig.cache
